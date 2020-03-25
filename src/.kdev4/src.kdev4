@@ -1,0 +1,19 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x06\x00s\x00r\x00c)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-主机系统=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=E:/eclipse/UpdateServer/src/build
+Build Type=Debug
+CMake Binary=D:/Program Files/CMake/bin/cmake.exe
+CMake Executable=D:/Program Files/CMake/bin/cmake.exe
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=\xe4\xb8\xbb\xe6\x9c\xba\xe7\xb3\xbb\xe7\xbb\x9f
+
+[Project]
+VersionControlSupport=kdevgit
